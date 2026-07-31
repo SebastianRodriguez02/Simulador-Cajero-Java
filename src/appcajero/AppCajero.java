@@ -60,7 +60,7 @@ public class AppCajero {
             }
         }
         if (pinIngresado == pin) {
-            System.out.println("--Bienvenido al Banco LuloBank--");
+            System.out.println("--Bienvenido al Banco InterAmericando de Colombia--");
 
             while (opcion != 5 && opcion !=6) {
 
